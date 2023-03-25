@@ -9,7 +9,7 @@ After you have created it you must paste that key in the [Json Configuration](./
 ## Preparations to start the application
 
 ### Install Dependencies.
-Install the dependencies and devDependencies and start the server.
+Install the dependencies
 
 ```sh
 npm install
